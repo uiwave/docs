@@ -1,1 +1,1 @@
-# docs
+# uiaz is UI lightweight, JavaScript framework.
